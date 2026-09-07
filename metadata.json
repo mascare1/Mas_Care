@@ -1,0 +1,8 @@
+{
+  "name": " صيدلية ماس كير",
+  "description": "تطبيق صيدلية ماس كير (MAS CARE PHARMACY) في صنعاء - شارع عمان تقاطع شارع الجزائر. تصفح الأدوية، طلب روشتة، استشارات وخدمات رعاية صحية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
